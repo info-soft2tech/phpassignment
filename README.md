@@ -18,7 +18,24 @@ Ensure you have the following installed:
 *   Vanilla JavaScript (no frameworks)
     
 *   Basic knowledge of REST APIs
-    
+
+Please note 
+-------------
+
+*   Clone this repository to your machine. (Don't fork it).
+
+*   Create a new private repository on GitHub.
+
+*   `cd` into the solution directory, and perform all the steps from that directory.
+
+*   The solution should work on a different machine, which has docker and docker-compose, without any modifications.
+
+*   Don't commit all of your work as a single commit, commit it as you finish each part, so we can see the work as you built it up.
+
+*   Reading this document carefully is the key to solve this assignment.
+
+*   If you need more time or are stuck at some point, don't hesitate to reach out to us.
+
 
 **Task Phases & Evaluation Criteria**
 -------------------------------------
